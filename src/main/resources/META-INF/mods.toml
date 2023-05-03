@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+[[mods]] 
+modId="opperm"
+version="${file.jarVersion}" 
+displayName="Op Permission" 
+logoFile="opperm.png" 
+credits="Thanks to juliankh6142 for Developing this mod"
+authors="juliankh6142" #optional
+description='''
+ A Mod for Unlocking the Op Permission
+'''
+
+[[dependencies.opperm]] 
+    modId="forge" 
+    mandatory=true 
+    versionRange="[40,)" 
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.opperm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

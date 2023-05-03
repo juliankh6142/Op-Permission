@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:totem_of_undying"
+        },
+        {
+            "item": "minecraft:beacon"
+        },
+        {
+            "item": "minecraft:obsidian"
+        },
+        {
+            "item": "minecraft:end_crystal"
+        },
+        {
+            "item": "minecraft:elytra"
+        },
+        {
+            "item": "minecraft:dragon_egg"
+        },
+        {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        {
+            "item": "minecraft:conduit"
+        },
+        {
+            "item": "minecraft:golden_apple"
+        }
+    ],
+    "result": {
+    	"item":"opperm:opperm_item",
+    	"count": 1
+    }
+}
